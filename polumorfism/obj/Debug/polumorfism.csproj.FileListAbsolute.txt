@@ -1,0 +1,7 @@
+C:\Users\opilane\Documents\GitHub\R-hmat---TA-17E-\polumorfism\polumorfism\obj\Debug\polumorfism.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Documents\GitHub\R-hmat---TA-17E-\polumorfism\polumorfism\obj\Debug\polumorfism.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\GitHub\R-hmat---TA-17E-\polumorfism\polumorfism\bin\Debug\polumorfism.exe.config
+C:\Users\opilane\Documents\GitHub\R-hmat---TA-17E-\polumorfism\polumorfism\bin\Debug\polumorfism.exe
+C:\Users\opilane\Documents\GitHub\R-hmat---TA-17E-\polumorfism\polumorfism\bin\Debug\polumorfism.pdb
+C:\Users\opilane\Documents\GitHub\R-hmat---TA-17E-\polumorfism\polumorfism\obj\Debug\polumorfism.exe
+C:\Users\opilane\Documents\GitHub\R-hmat---TA-17E-\polumorfism\polumorfism\obj\Debug\polumorfism.pdb
